@@ -1,24 +1,10 @@
 # BluePrint User Guide for windows Machine
 
-> **<span class="smallcaps">author(s)</span>** : Maikal Kumar
-> 
-> **<span class="smallcaps">document number</span>** : XXXXXX
-> 
-> **<span class="smallcaps">version</span>** : 0.1
-> 
-> **<span class="smallcaps">status</span>** : Draft
-> 
-> **<span class="smallcaps">source</span>** : Atos
-> 
-> **<span class="smallcaps">document date</span>** : 16/12/2021­
-> 
-> ­
-> 
-> ­
-> 
-> **<span class="smallcaps">number of pages</span>** : 11
-> 
-> **<span class="smallcaps">owner</span>** : Ravi Prakash
+# Changelog
+  
+| Version | Date       | Description              | Author       |
+| ------- | ---------- | ------------------------ | --------------- |
+| 0.1     | 28/12/2021 | First version | Maikal Kumar |
 
 # Table of Contents
 
