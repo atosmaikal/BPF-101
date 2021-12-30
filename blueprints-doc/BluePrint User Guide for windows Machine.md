@@ -117,6 +117,7 @@ The scope of this document covers the following:
 | **Screenshots** |
 | --------------- |
 |                 |
+| ![](./windowsbp/media/image16.png) |
 
 ## Deployment Details
 
@@ -130,6 +131,7 @@ The scope of this document covers the following:
 | --------------------------------- |
 |                                   |
 |                                   |
+| ![](./windowsbp/media/image12.png)|
 | ![](./windowsbp/media/image6.png) |
 
 <table>
@@ -271,24 +273,6 @@ The scope of this document covers the following:
 | --------------------------------- |
 | ![](./windowsbp/media/image9.png) |
 
-## Form Validation
-
-  - After providing the required information, user need to click on
-    submit button to deploy the VM. But before deployment starts it will
-    validate below provided info, if provided information is proper then
-    it will start deploying and redirect us to deployment page otherwise
-    it will show validation Massage on the top of form.
-
-  - Below form elements will be verified before submitting the Blueprint
-    info.  
-    **Additional Disk:** Additional disk can’t be more than specified
-    limit.  
-    **Additional NICs:** Additional NICs can’t be more than specified
-    number of NICs.
-
-| **Screenshots**                    |
-| ---------------------------------- |
-| ![](./windowsbp/media/image10.png) |
 
 # VM Deployment in AZURE Cloud
 
